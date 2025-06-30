@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_image">Current image:</string>
+    <string name="Unknown">null</string>
+    <string name="current_version">Current version:</string>
+    <string name="new_image">new image:</string>
+    <string name="getinfo">GETINFO</string>
+    <string name="imagea">IMAGEA</string>
+    <string name="imageb">IMAGEB</string>
+    <string name="start">Start</string>
+    <string name="current_offset">Image max size:</string>
+    <string name="close">Close</string>
+    <string name="connect">连接蓝牙</string>
+    <string name="disconnect">断开连接</string>
+    <string name="import_external_file">导入外部文件</string>
+    <string name="erase_address_null">地址为空</string>
+    <string name="hex_address_invalid">HEX地址不合法</string>
+    <string name="file_name_not_null">文件名不能为空</string>
+    <string name="ota_update">OTA升级</string>
+    <string name="continue_disconnect">蓝牙已经连接，确定断开?</string>
+    <string name="not_target_device">该设备不是目标设备</string>
+    <string name="connect_timeout">连接超时</string>
+    <string name="already_disconnect">蓝牙已断开连接</string>
+    <string name="get_image_info_fail">获取Image信息失败</string>
+    <string name="connecting">正在连接</string>
+    <string name="get_image_info">获取Image信息...</string>
+    <string name="image_folder_not_exist">image文件夹不存在</string>
+    <string name="update_file_not_found">没有找到升级文件</string>
+    <string name="update_file_null">升级文件为空</string>
+    <string name="image_info_null">image信息为空</string>
+    <string name="firmware_not_selected">未选择升级固件</string>
+    <string name="no_rw_permission">没有读写文件的权限</string>
+    <string name="speed">速度:%d字节/秒</string>
+    <string name="importing">正在导入文件</string>
+    <string name="import_success">已成功导入文件</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="current_image">Current image:</string>
+    <string name="Unknown">null</string>
+    <string name="current_version">Current version:</string>
+    <string name="new_image">new image:</string>
+    <string name="getinfo">GETINFO</string>
+    <string name="imagea">IMAGEA</string>
+    <string name="imageb">IMAGEB</string>
+    <string name="start">Start</string>
+    <string name="current_offset">Image max size:</string>
+    <string name="close">Close</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="import_external_file">Import external files</string>
+    <string name="erase_address_null">Address is empty</string>
+    <string name="hex_address_invalid">HEX address is illegal</string>
+    <string name="file_name_not_null">File name cannot be empty</string>
+    <string name="ota_update">OTA update</string>
+    <string name="continue_disconnect">Bluetooth is connected. Are you sure to disconnect?</string>
+    <string name="not_target_device">The device is not a target device</string>
+    <string name="connect_timeout">Connection timed out</string>
+    <string name="already_disconnect">Bluetooth disconnected</string>
+    <string name="get_image_info_fail">Failed to get image information</string>
+    <string name="connecting">Connecting</string>
+    <string name="get_image_info">Get image information...</string>
+    <string name="image_folder_not_exist">The image folder does not exist</string>
+    <string name="update_file_not_found">Update file not found</string>
+    <string name="update_file_null">Update file is null</string>
+    <string name="image_info_null">Image information is null</string>
+    <string name="firmware_not_selected">No firmware selected</string>
+    <string name="no_rw_permission">No permission to read and write files</string>
+    <string name="speed">Speed:%dByte/s</string>
+    <string name="importing">Importing file</string>
+    <string name="import_success">Successfully imported file</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OTA升级工具</string>
+    <string name="open_bt">请允许打开蓝牙</string>
+    <string name="not_support_ble">不支持BLE</string>
+    <string name="create_image_folder_fail">创建Image文件夹失败</string>
+    <string name="please_allow_permission">请允许权限,否则APP不能正常运行</string>
+    <string name="please_allow_permission_on_settions">请到设置中打开权限</string>
+    <string name="save_file_success">已成功保存分享文件</string>
+    <string name="search_ble">搜索蓝牙设备</string>
+    <string name="scanning_need_location">蓝牙扫描需要开启位置信息服务</string>
+    <string name="open_ble">请先打开蓝牙</string>
+    <string name="download_address_null">下载地址为空</string>
+    <string name="file_name_can_not_null">文件名不能为空</string>
+    <string name="scanning">扫描蓝牙</string>
+    <string name="stop">停止扫描</string>
+    <string name="download">下载固件</string>
+</resources>

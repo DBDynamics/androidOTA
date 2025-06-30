@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OTA Update Tool</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="open_bt">Please allow to open Bluetooth</string>
+    <string name="not_support_ble">BLE not supported</string>
+    <string name="create_image_folder_fail">Failed to create Image folder</string>
+    <string name="please_allow_permission">Please allow permissions, otherwise APP will not run normally</string>
+    <string name="please_allow_permission_on_settions">Please allow permissions in settings</string>
+    <string name="save_file_success">Successfully saved the shared file</string>
+    <string name="search_ble">Search for BLE devices</string>
+    <string name="scanning_need_location">Location information service needs to be enabled for Bluetooth scanning</string>
+    <string name="open_ble">Please turn on Bluetooth first</string>
+    <string name="download_address_null">The download address is empty</string>
+    <string name="file_name_can_not_null">File name cannot be empty</string>
+    <string name="scanning">Scanning</string>
+    <string name="stop">Stop</string>
+    <string name="download">Download</string>
+</resources>
